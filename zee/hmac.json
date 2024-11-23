@@ -1,0 +1,13 @@
+{
+    "type": "ZEE5 HMAC API",
+    "author": "Joker",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
+    "data": {
+        "hmac": {
+            "hdntl": {
+                "value": "hdntl=exp=1732449834~acl=%2f*~data=hdntl~hmac=20f9088e38047762b7a20c86f79075edcdd5067fb72e7afda288a9108e8df378",
+                "validity": "24.0 hour(s)"
+            }
+        }
+    }
+}
