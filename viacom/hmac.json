@@ -1,0 +1,12 @@
+{
+    "type": "VIACOM18 HMAC API",
+    "author": "Joker",
+    "data": {
+        "hmac": {
+            "hdnea": {
+                "value": "hdnea=exp=1732377965~acl=/*~hmac=618d66a9e3b71caf734d057d2b5ea380249901d6648bfe5414e46a304d3ba4e7",
+                "validity": "4.0 hour(s)"
+            }
+        }
+    }
+}
