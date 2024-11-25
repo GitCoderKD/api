@@ -6,7 +6,8 @@
         "hmac": {
             "hdntl": {
                 "value": "hdntl=exp=1732536605~acl=%2f*~data=hdntl~hmac=c79e5c6ff964fa4227fb08b638196acd2dab62e208f41d6dd2b042337083e14a",
-                "validity": "23.999444444444446 hour(s)"
+                "validity": "23.999444444444446 hour(s)",
+                "error": "Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?"
             }
         }
     }
