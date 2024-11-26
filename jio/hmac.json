@@ -1,12 +1,12 @@
 {
     "type": "JIO HMAC API",
     "author": "Joker",
-    "User-Agent": "Shraddha/5.0",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
     "data": {
         "live": {
             "hmac": {
                 "hdnea": {
-                    "value": "__hdnea__=st=1732617495~exp=1732703895~acl=/*~hmac=df0dc99d45a46e5bd5afc131d0fa7df94594c75db0ac4e0d9ab47eb9eda738c1",
+                    "value": "__hdnea__=st=1732617624~exp=1732704024~acl=/*~hmac=5717a8e703ef8805b4181a64435a559e7eb126dad608e2570966f29b610c9e3c",
                     "validity": "24.0 hour(s)"
                 }
             }
@@ -14,7 +14,7 @@
         "catchup": {
             "hmac": {
                 "hdnea": {
-                    "value": "__hdnea__=st=1732617496~exp=1732703896~acl=/*~hmac=a8f943ff7d1dba7a03ace5e714537dcf53c4e0b17fc376854a685d6cb6d1b567",
+                    "value": "__hdnea__=st=1732617625~exp=1732704025~acl=/*~hmac=e0316cd83525ea503f7314e6523c3936872a38709ad1dfcd86a7fbd75bd2bfa7",
                     "validity": "24.0 hour(s)"
                 }
             }
@@ -22,7 +22,7 @@
         "cinema": {
             "hmac": {
                 "hdntl": {
-                    "value": "hdntl=exp=1732703899~acl=%2f*~id=e03e2af7916ce0998f1643e058ab9930~data=hdntl~hmac=721e9224b43dfc4935055245c98aa67f433dd96eb159cdf525d58732083f1da5",
+                    "value": "hdntl=exp=1732704026~acl=%2f*~id=69de561762180e1714e8b46ad19f7d2d~data=hdntl~hmac=2070b8eeca53fae2e90d91b2961f19081fffc355db03160a6c74b71323aa6c76",
                     "validity": "24.0 hour(s)"
                 }
             }
