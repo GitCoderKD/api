@@ -5,8 +5,8 @@
     "data": {
         "hmac": {
             "hdntl": {
-                "value": "hdntl=exp=1732856404~acl=%2f*~data=hdntl~hmac=df7d42e194b8d529ac7114e7e028be3e83c9a3ac24cabc934d2c8561b7b6c893",
-                "validity": "24.00027777777778 hour(s)"
+                "value": "hdntl=exp=1732898276~acl=%2f*~data=hdntl~hmac=bc7f60edd875db28a6f19068913cb0fe480ac4d46cddc64a1bfe26f64891d921",
+                "validity": "24.0 hour(s)"
             }
         }
     }
