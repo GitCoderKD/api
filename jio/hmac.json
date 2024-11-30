@@ -6,7 +6,7 @@
         "live": {
             "hmac": {
                 "hdnea": {
-                    "value": "__hdnea__=st=1732661405~exp=1732747805~acl=/*~hmac=7aa89490e419f743cbc3ddaadc85eb3d1cee10ab65c0e0f2b65fb5b08dcd44b9",
+                    "value": "__hdnea__=st=1732941154~exp=1733027554~acl=/*~hmac=f418aef3886549209950d4b60ce8f9a62314b5c8d7138f5adbcf4198147cbc19",
                     "validity": "24.0 hour(s)"
                 }
             }
@@ -14,7 +14,7 @@
         "catchup": {
             "hmac": {
                 "hdnea": {
-                    "value": "__hdnea__=st=1732661406~exp=1732747806~acl=/*~hmac=8d2cdf1c061a3929d4a9893c6a5ce9d2ab0ab651a29b17f31e7a7af7265943a6",
+                    "value": "__hdnea__=st=1732941154~exp=1733027554~acl=/*~hmac=15f1a2abf89e853a8e7c2f00996b2fa57cc5fc07f364ca9df58b7053596f50e1",
                     "validity": "24.0 hour(s)"
                 }
             }
@@ -22,7 +22,7 @@
         "cinema": {
             "hmac": {
                 "hdntl": {
-                    "value": "hdntl=exp=1733023206~acl=%2f*~id=c6363e996ebc98e0a5b7fb4e9bccf8cd~data=hdntl~hmac=de1c41c7a2f1a9cc2d77e2fec25d647ca02f46fd0ee78a3e90069f19bdba107c",
+                    "value": "hdntl=exp=1733027555~acl=%2f*~id=1559f15b7a5e74d2a4b8d7114a4cd7fa~data=hdntl~hmac=4c854dde41a826e9bba599a9c1640e31d65920bf0aec8376db736f02dd097b50",
                     "validity": "24.0 hour(s)"
                 }
             }
