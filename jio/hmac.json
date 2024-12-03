@@ -22,7 +22,7 @@
         "cinema": {
             "hmac": {
                 "hdntl": {
-                    "value": "hdntl=exp=1733228406~acl=%2f*~id=270e426f172db9374243fde74fcecc45~data=hdntl~hmac=d1594bbf2435acb63053ffb54ec364f4db19ed008a277d1e9ce4748634c1e239",
+                    "value": "hdntl=exp=1733272209~acl=%2f*~id=008602445dadffad2816fea596f85660~data=hdntl~hmac=756bcbcfaeb875a4fd9b887d32e3ef9e130e69873639f74211a233b5b618b82c",
                     "validity": "24.0 hour(s)"
                 }
             }
