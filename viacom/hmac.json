@@ -4,8 +4,8 @@
     "data": {
         "hmac": {
             "hdnea": {
-                "value": "hdnea=exp=1733274605~acl=/*~hmac=86d7ebe4cfbb6d5bced146e0771d0eb688f17c92468b13ca49d5258f6f2bc2f6",
-                "validity": "4.0 hour(s)"
+                "value": "hdnea=exp=1733281805~acl=/*~hmac=2a110db212c8c59e416d18e8a8498e203c8df359ca9edc71436b65bd65c40b4e",
+                "validity": "3.999722222222222 hour(s)"
             }
         }
     }
